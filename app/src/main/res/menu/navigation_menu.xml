@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/menuHome"
+        android:icon="@drawable/ic_home"
+        android:title="@string/home"/>
+
+    <item android:id="@+id/menuMarketplace"
+        android:icon="@drawable/ic_marketplace"
+        android:title="Marketplace"/>
+
+    <item android:id="@+id/menuWatchlist"
+        android:icon="@drawable/ic_watchlist"
+        android:title="@string/watchlist"/>
+
+    <item android:id="@+id/menuHistory"
+        android:icon="@drawable/ic_history"
+        android:title="@string/history"/>
+
+    <item android:id="@+id/menuMessage"
+        android:icon="@drawable/ic_message"
+        android:title="@string/message"/>
+
+</menu>

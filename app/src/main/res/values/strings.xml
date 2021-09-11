@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">My Application- RentMe</string>
+    <string name="popular_category">Popular Category</string>
+    <string name="search_here">search here</string>
+    <string name="home">Home</string>
+    <string name="marketplace">marketplace</string>
+    <string name="watchlist">Watchlist</string>
+    <string name="history">History</string>
+    <string name="message">Message</string>
+    <string name="gardening">Gardening</string>
+    <string name="construction">Construction</string>
+    <string name="popular_categories">Popular categories</string>
+    <string name="gardeningHousehold">Gardening and Household</string>
+    <string name="medical_tools">Medical Tools</string>
+    <string name="garden_home_tools">Garden/Home Tools</string>
+    <string name="vehicles">Vehicles</string>
+    <string name="view_order_history">View Order History</string>
+    <string name="view_details">view details</string>
+    <string name="back_to_home">Back to Home</string>
+</resources>
