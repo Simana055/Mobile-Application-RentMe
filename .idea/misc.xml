@@ -4,12 +4,13 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="app/src/main/res/drawable/action_bar.xml" value="0.20416666666666666" />
+        <entry key="app/src/main/res/drawable/ic_history.xml" value="0.27760416666666665" />
         <entry key="app/src/main/res/drawable/ic_profile.xml" value="0.27760416666666665" />
         <entry key="app/src/main/res/drawable/ic_search.xml" value="0.1" />
         <entry key="app/src/main/res/drawable/search_icon_background.xml" value="0.20416666666666666" />
         <entry key="app/src/main/res/drawable/search_rectangle_background.xml" value="0.165" />
         <entry key="app/src/main/res/layout/action_bar.xml" value="0.18802083333333333" />
-        <entry key="app/src/main/res/layout/activity_home_page.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_home_page.xml" value="0.335" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.25" />
         <entry key="app/src/main/res/layout/home_screen.xml" value="0.335" />
         <entry key="app/src/main/res/layout/landing_page.xml" value="0.25" />
